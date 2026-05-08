@@ -45,7 +45,7 @@ function copyIP() {
   alert("IP copiado!");
 }
 function copyPort() {
-  navigator.clipboard.writeText("9148");
+  navigator.clipboard.writeText("28258");
   alert("Porta copiada!");
 }
 
@@ -55,7 +55,7 @@ function copyIP() {
 }
 
 function copyPort() {
-  navigator.clipboard.writeText("9148");
+  navigator.clipboard.writeText("28258");
   alert("Porta copiada!");
 }
 
